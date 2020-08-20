@@ -315,7 +315,7 @@
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 5.984251968503937
+        "wire_width": 5.0
       }
     ],
     "meta": {
@@ -365,9 +365,9 @@
     ]
   ],
   "text_variables": {
-    "DATE": "2020-08-19",
+    "DATE": "2020-08-20",
     "NAME": "Leo Fuzz Box",
-    "REVISION": "v0.1",
+    "REVISION": "v0.2",
     "URL": "github.com/rockola/leo-fuzz-box"
   }
 }
