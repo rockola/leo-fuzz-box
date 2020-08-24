@@ -360,14 +360,14 @@
   },
   "sheets": [
     [
-      "4881bcbc-07e7-4b3b-a5f4-32fcf0ec10da",
+      "a928aefe-b059-437a-8b6a-6e53f352acfd",
       ""
     ]
   ],
   "text_variables": {
-    "DATE": "2020-08-20",
+    "DATE": "2020-08-24",
     "NAME": "Leo Fuzz Box",
-    "REVISION": "v0.2",
+    "REVISION": "v0.3",
     "URL": "github.com/rockola/leo-fuzz-box"
   }
 }
